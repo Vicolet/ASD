@@ -18,15 +18,15 @@ void *allocateC() {
 }
 
 void f(void *p) {
-
+	new(p) C;
 }
 
 void f(void *p, int i) {
-
+	new(p) C(i);
 }
 
 void g(C *p) {
-	delete p;
+	std::destroy_at(p);
 }
 
 int main() {
