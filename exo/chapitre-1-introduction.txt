@@ -1,0 +1,31 @@
+Exercice 1.1 Complexités (1)
+Quelle est la complexité des extraits de code suivants en fonction du paramètre N ?
+
+1. O(N)
+2. O(racine(N))
+3. O(log(N))
+4. O(N^2)
+5. O(Nlog(N))
+6. O(N^2)
+
+
+Exercice 1.2 Complexités (2)
+Quelle est la complexité des extraits de code suivants en fonction des deux paramètres M et N ?
+
+1. O(max(M,N))
+2. O(min(M,N))
+3. O(M logN)
+4. O(MN) X O()
+5. O(max(0, M-N))
+6. O(MN) X O()
+
+1. 4 3 2 1
+2. 1 2 3 4
+3. 4 3 2 1 0
+4. 0 1 2 3 4
+5. 4 8 16 32 64 128
+6. 32 8 4
+7. 4 3 2 1 2 3 4
+8. 4 2 0 0 2 4
+
+1. 3 2 1 0 1 2 3
