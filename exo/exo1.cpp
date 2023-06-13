@@ -1,16 +1,17 @@
-#include "iostream"
+// Insertion sort in C++
 
+#include <iostream>
 using namespace std;
 
-void f1(int n) {
+void f5(int n) {
     if(n > 0) {
-        cout << n << " ";
-        f1(n-1);
-        f1(n-1);
+        f5(n-2);
+        f5(n-1);
     }
+    if(n >= 0)
+        cout << n << " ";
 }
 
-int main(){
-    int i = 3;
-    f1(3);
+int main() {
+    f5(3);
 }
