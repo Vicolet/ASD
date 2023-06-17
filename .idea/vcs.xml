@@ -5,5 +5,10 @@
     <mapping directory="$PROJECT_DIR$/ASD2023-L1-Complexite" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ASD2023-L2-Recursivite" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ASD2023-L3-Tris" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ASD2023-L5-Buffer-circulaire-de-capacite-variable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ASD2023-L6-Liste-simple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ASD2023-L7-Expressions-arithmetiques" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ASD2023-L8-Arbre-AVL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ASD2023-L9-Taquin" vcs="Git" />
   </component>
 </project>
